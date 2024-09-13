@@ -63,6 +63,7 @@ npm start
 You can view the live demo of the project [here](https://manage-landing-page-in.netlify.app).
 
 ## Screenshots
+
 ![Screenshot 2024-09-11 194709](https://github.com/user-attachments/assets/b6707ff1-4d8b-4c74-8f0e-3e4bd9477443)
 
 
